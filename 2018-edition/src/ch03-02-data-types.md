@@ -290,8 +290,8 @@ a tuple, every element of an array must have the same type. Arrays in Rust are
 different from arrays in some other languages because arrays in Rust have a
 fixed length, like tuples.
 
-In Rust, the values going into an array are written as a comma-separated list
-inside square brackets:
+In Rust, an array literal is written as a comma-separated list inside square
+brackets:
 
 <span class="filename">Filename: src/main.rs</span>
 
